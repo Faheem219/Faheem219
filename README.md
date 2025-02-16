@@ -23,7 +23,7 @@ I'm a dedicated **Computer Science Engineering** student at **Symbiosis Institut
 - Implemented **classification, ensemble, and deep learning algorithms** for high-accuracy predictions.
 - 📄 [Research Publication](https://onlinelibrary.wiley.com/doi/10.1111/phn.13334)
 
-### 🔹 ML-Driven Maternal & Neonatal Risk Prediction (Sep 2024 - Ongoing)
+### 🔹 ML-Driven Maternal & Neonatal Risk Prediction (Sep 2024 - Dec 2024)
 - **AI-powered risk assessment** for maternal and neonatal health in resource-limited settings.
 - Applied **SVM and ensemble techniques** for predictive healthcare decisions.
 
