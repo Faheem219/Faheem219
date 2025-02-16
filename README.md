@@ -49,7 +49,7 @@ I'm a dedicated **Computer Science Engineering** student at **Symbiosis Institut
 
 ## 📌 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/faheemuddinsayyed/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/faheem219/)
 - 💻 [GitHub](https://github.com/Faheem219)
 - 📧 Email: faheemuddinsayyed789@gmail.com
 
