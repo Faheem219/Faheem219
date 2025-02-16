@@ -1,6 +1,6 @@
 # Hi there, I'm Faheemuddin Sayyed! 👋
 
-🚀 **Passionate Computer Science Student | Machine Learning Enthusiast | Full Stack Developer**
+🚀 **Passionate Computer Science Student | Machine Learning Enthusiast | Full Stack Web Developer**
 
 I'm a dedicated **Computer Science Engineering** student at **Symbiosis Institute of Technology, Pune**, with a strong passion for **programming, technology, and machine learning**. I thrive on solving real-world problems through **software development and AI-driven solutions**.
 
