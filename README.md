@@ -18,7 +18,7 @@ I'm a dedicated **Computer Science Engineering** student at **Symbiosis Institut
 
 ## 📚 Academic Projects
 
-### 🔹 Predicting Non-Attendance to Cervical Screening Test (Oct 2023 - May 2024)
+### 🔹 Predicting Non-Attendance to Cervical Screening Test (Oct 2023 - Ongoing)
 - Developed a **machine learning model** to predict non-attendance in cervical cancer screening.
 - Implemented **classification, ensemble, and deep learning algorithms** for high-accuracy predictions.
 - 📄 [Research Publication](https://onlinelibrary.wiley.com/doi/10.1111/phn.13334)
