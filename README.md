@@ -1,60 +1,136 @@
-# Hi there, I'm Faheemuddin Sayyed! 👋
+# Hey there! I'm Faheem 👋
 
-🚀 **Passionate Computer Science Student | Machine Learning Enthusiast | Full Stack Web Developer**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Full+Stack+Web+Developer;AI+%26+GenAI+Explorer)](https://git.io/typing-svg)
 
-I'm a dedicated **Computer Science Engineering** student at **Symbiosis Institute of Technology, Pune**, with a strong passion for **programming, technology, and machine learning**. I thrive on solving real-world problems through **software development and AI-driven solutions**.
+</div>
+
+## 🚀 About Me
+
+I'm a passionate **Computer Science Engineering** student at **Symbiosis Institute of Technology, Pune** with a strong foundation in **Machine Learning**, **Generative AI**, and **Full Stack Development**. Currently maintaining a **CGPA of 8.95** and diving deep into the world of AI-driven healthcare solutions.
+
+- 👯 Looking to collaborate on **AI/ML projects** and **Healthcare Tech**
+- 💬 Ask me about **Machine Learning**, **GenAI**, or **Full Stack Web Development**
+- 📫 Reach me at: **faheemuddinsayyed789@gmail.com**
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🔬 Featured Projects
+
+### 🏥 [Predicting Non-Attendance to Cervical Screening Test](https://github.com/faheemuddinsayyed)
+> **Oct 2023 - May 2024** | [PHN Journal Publication](link-to-journal)
+- 🎯 Addressed significant healthcare challenge using **advanced ML algorithms**
+- 🧠 Implemented **Classification**, **Ensemble**, and **Deep Learning** models
+- 📈 Achieved high accuracy in predicting screening non-attendance
+- 🔬 **Tech Stack**: Python, Scikit-learn, TensorFlow, Pandas
+
+### 👶 [ML-Driven Maternal & Neonatal Risk Prediction](https://github.com/faheemuddinsayyed)
+> **Sep 2024 - March 2025** 
+- 🎯 Developed ML models for **early identification** of high-risk pregnancies
+- 🏥 Focused on **resource-limited healthcare settings** in rural Pune
+- 🤖 Utilized **SVM** and **ensemble techniques** for optimal predictions
+- 📊 Enabling **data-driven healthcare decisions** for better outcomes
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Provider | Status |
+|:-------------:|:--------:|:------:|
+| 🧠 **IBM Machine Learning Professional Certificate** | Coursera | ✅ Completed |
+| 🤖 **IBM Generative AI Engineering Professional Certificate** | Coursera | ✅ Completed |
+| 💻 **Full Stack Web Development** | Udemy | ✅ Completed |
+| 📊 **DSA using C and C++** | Udemy | ✅ Completed |
+
+</div>
+
+<!---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faheem219&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheem219&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faheem219&theme=tokyonight" alt="GitHub Streak" />
+</div>
+-->
+
+<!---
+## 🎯 Current Focus Areas
+
+```python
+class FaheemSayyed:
+    def __init__(self):
+        self.name = "Faheem Sayyed"
+        self.role = "Computer Science Student & ML Enthusiast"
+        self.location = "Pune, Maharashtra, India"
+        self.education = "Symbiosis Institute of Technology"
+        
+    def current_focus(self):
+        return [
+            "Healthcare AI Solutions",
+            "Generative AI Applications", 
+            "Deep Learning Research",
+            "Full Stack Development",
+            "Open Source Contributing"
+        ]
+    
+    def fun_fact(self):
+        return "I believe AI can revolutionize healthcare accessibility! 🏥🤖"
+```
+-->
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheem219)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemuddinsayyed789@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faheem219)
+
+</div>
 
 ---
 
-## 🔧 Skills & Technologies
+<!---
+<div align="center">
+  
+### 💭 *"Building the future, one algorithm at a time"* 
 
-- **Programming Languages:** C, C++, Python, Java, JavaScript
-- **Web Development:** Node.js, Full Stack Web Development (MERN)
-- **Databases:** MySQL, MongoDB
-- **Machine Learning:** Classification, Ensemble, Deep Learning
-- **Soft Skills:** Project Management, Leadership, Teamwork, Communication
+![Profile Views](https://komarev.com/ghpvc/?username=Faheem219&color=blueviolet&style=flat-square)
 
----
+⭐️ **From [faheemuddinsayyed](https://github.com/faheemuddinsayyed)** - *Let's collaborate and create something amazing together!*
 
-## 📚 Academic Projects
-
-### 🔹 Predicting Non-Attendance to Cervical Screening Test (Oct 2023 - May 2024)
-- Developed a **machine learning model** to predict non-attendance in cervical cancer screening.
-- Implemented **classification, ensemble, and deep learning algorithms** for high-accuracy predictions.
-- 📄 [Research Publication](https://onlinelibrary.wiley.com/doi/10.1111/phn.13334)
-
-### 🔹 ML-Driven Maternal & Neonatal Risk Prediction (Sep 2024 - Ongoing)
-- **AI-powered risk assessment** for maternal and neonatal health in resource-limited settings.
-- Applied **SVM and ensemble techniques** for predictive healthcare decisions.
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Technology in Computer Science Engineering**  
-📍 Symbiosis Institute of Technology, Pune (2023 - 2027)  
-📊 **CGPA:** 8.95 (till 3rd semester)  
-
-🏫 **Grade 12 (CBSE):** City Pride School, Pune | **Percentage:** 94.4%  
-
----
-
-## 📜 Certifications
-
-- **Data Structures & Algorithms using C and C++**
-- **Full Stack Web Development**
-- **IBM Machine Learning Professional Certificate**
-
----
-
-## 📌 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/faheem219/)
-- 💻 [GitHub](https://github.com/Faheem219)
-- 📧 Email: faheemuddinsayyed789@gmail.com
-
----
-
-💡 *Always eager to learn, collaborate, and build innovative solutions!* 🚀  
-🌟 Feel free to reach out for **collaborations, projects, or discussions!** ✨
-
+</div>
+-->
